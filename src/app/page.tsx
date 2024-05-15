@@ -112,7 +112,7 @@ export default function Home() {
                   imgAlt={item.alt}
                   title={item.title}
                   text={item.text}
-                  onClickSeeMore={() => console.log('yuhuu on click category')}
+                  onClickSeeMore={() => console.log('asiiikk jalan euyy on click category')}
                   type="secondary"
                 />
               </div>
@@ -123,3 +123,7 @@ export default function Home() {
     </main>
       );
     }
+
+    //nah seperti yang tadi diketik, "first commit ini bisa diganti apa aja"
+    //Nah itu sudah ke push, pasti kamu bingung kenapa ada branch dan push nya ada -u origin main nya, nanti next time kita bahas
+    //sekarang mari kita lihat apa sudah keunggah di github
