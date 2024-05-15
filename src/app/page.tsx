@@ -90,7 +90,7 @@ export default function Home() {
                     dateText={item.date}
                     title={item.title}
                     text={item.text}
-                    onClickSeeMore={() => console.log('yuhuu on click category')}
+                    onClickSeeMore={() => console.log('fazri ganteng on click category')}
                     type='primary'
                   />
                 </div>
